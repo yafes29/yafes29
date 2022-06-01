@@ -57,7 +57,7 @@
     <td align=center >1.</td>
     <td>Africa</td>
     <td>https://yafes29.github.io/Go-to-Africa/</td>
-    <td>HTML Semantics,CSS </td>
+    <td>HTML,CSS </td>
     <td>.... </td>
     
 </tr>
@@ -66,7 +66,7 @@
     <td>Kredi Hesaplama</td>
     <td>https://yafes29.github.io/Kredi_Hesaplama/</td>
     <td>Form Elements,İnput Type,Margin-Padding,Text </td>
-    <td>Project aims to create survey form within html and css.</td>
+    <td>Project aims to create kredi hesaplama within html and css.</td>
     
 </tr>
  <tr>
@@ -74,7 +74,7 @@
     <td>Web-Site-Bootstrap</td>
     <td>https://yafes29.github.io/Web-Site-Bootstrap/</td>
     <td>Form Elements,İnput Type,Margin-Padding,Text </td>
-    <td>Project aims to create survey form within html and css.</td>
+    <td>Project aims to create bootstrap within html and css.</td>
     
 </tr>
   <tr>
@@ -82,7 +82,7 @@
     <td>Netflix-Form</td>
     <td>https://yafes29.github.io/Netflix-Form/</td>
     <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
-   <td>Project aims to create google landing page.</td>
+   <td>Project aims to create Netlix-Form.</td>
  </tr>
 
 </table>
