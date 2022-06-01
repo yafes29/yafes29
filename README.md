@@ -55,7 +55,7 @@
 </tr>
 <tr>
     <td align=center >1.</td>
-    <td>Voltran</td>
+    <td>Africa</td>
     <td>https://yafes29.github.io/Go-to-Africa/</td>
     <td>HTML Semantics,CSS </td>
     <td>.... </td>
@@ -63,7 +63,7 @@
 </tr>
 <tr>
     <td align=center >2.</td>
-    <td>Netflix Survey Form</td>
+    <td>Kredi Hesaplama</td>
     <td>https://yafes29.github.io/Kredi_Hesaplama/</td>
     <td>Form Elements,İnput Type,Margin-Padding,Text </td>
     <td>Project aims to create survey form within html and css.</td>
@@ -71,7 +71,7 @@
 </tr>
  <tr>
     <td align=center >3.</td>
-    <td>Clarusway Survey Form</td>
+    <td>Web-Site-Bootstrap</td>
     <td>https://yafes29.github.io/Web-Site-Bootstrap/</td>
     <td>Form Elements,İnput Type,Margin-Padding,Text </td>
     <td>Project aims to create survey form within html and css.</td>
@@ -79,7 +79,7 @@
 </tr>
   <tr>
     <td align=center >4.</td>
-    <td>Google Land Pages</td>
+    <td>Netflix-Form</td>
     <td>https://yafes29.github.io/Netflix-Form/</td>
     <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
    <td>Project aims to create google landing page.</td>
