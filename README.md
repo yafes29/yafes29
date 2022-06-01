@@ -26,28 +26,23 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yafes29&" alt="yafes29" /></p>
 
-### Support Me
-<p align="right"> Visitor Counter 🕵🏼</p>
-<p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{yafes29}/count.svg" alt="Visitor's Count" /></p>
+<!-- ### Support Me -->
+<!-- <p align="right"> Visitor Counter 🕵🏼</p> -->
+<!-- <p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{yafes29}/count.svg" alt="Visitor's Count" /></p> -->
   <div align=center>
-    <a href="https://github.com/serapo/serapo">
+<!--     <a href="https://github.com/yafes29/yafes29">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yafes29&layout=compact&theme=react" />
-    </a>
+    </a> -->
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=yafes29&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-
-
-
 ### <p>&#127894; My Projects</p>
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
- <br><br><br><br>
+ <br>
 
 </p>
- 
- 
  
  <table>
 <tr>
