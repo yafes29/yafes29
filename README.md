@@ -87,7 +87,7 @@
   
    <tr>
     <td align=center >4.</td>
-    <td>Netflix-Form</td>
+    <td>Analog Clock</td>
     <td>https://yafes29.github.io/Analog-Clock/</td>
     <td>Html, Css, JavaScript </td>
    <td>Project aims to create Analog Clock.</td>
