@@ -96,7 +96,7 @@
 
   <tr>
     <td align=center >6.</td>
-    <td>Chechkout-Page</td>
+    <td>Checkout-Page</td>
     <td>https://yafes29.github.io/Checkout-Page/</td>
     <td>Html, Css, JavaScript </td>
    <td>Project aims to create Checkout-Page.</td>
