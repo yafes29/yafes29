@@ -40,6 +40,7 @@
 ### <p>&#127894; My Projects</p>
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="45"/> </a>
  <br>
 
 </p>
@@ -95,9 +96,8 @@
 
 </table>
 
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="45"/> </a>
+
+ 
  <table>
 
 
