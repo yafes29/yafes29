@@ -92,8 +92,18 @@
     <td>https://yafes29.github.io/Analog-Clock/</td>
     <td>Html, Css, JavaScript </td>
    <td>Project aims to create Analog Clock.</td>
- </tr>
+  </tr>
 
+  <tr>
+    <td align=center >6.</td>
+    <td>Chechkout-Page</td>
+    <td>https://yafes29.github.io/Checkout-Page/</td>
+    <td>Html, Css, JavaScript </td>
+   <td>Project aims to create Checkout-Page.</td>
+  </tr>
+  
+
+  
 </table>
 
 
