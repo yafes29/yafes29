@@ -84,6 +84,14 @@
     <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
    <td>Project aims to create Netlix-Form.</td>
  </tr>
+  
+   <tr>
+    <td align=center >4.</td>
+    <td>Netflix-Form</td>
+    <td>https://yafes29.github.io/Analog-Clock/</td>
+    <td>Html, Css, JavaScript </td>
+   <td>Project aims to create Analog Clock.</td>
+ </tr>
 
 </table>
 
