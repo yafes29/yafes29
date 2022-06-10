@@ -105,7 +105,7 @@
    <tr>
     <td align=center >7.</td>
     <td>Guess Number</td>
-    <td></td>
+    <td>https://yafes29.github.io/Guess-the-number/</td>
     <td>Html, Css, JavaScript </td>
    <td>Project aims to create Guess number.</td>
   </tr>
