@@ -102,6 +102,14 @@
    <td>Project aims to create Checkout-Page.</td>
   </tr>
   
+   <tr>
+    <td align=center >7.</td>
+    <td>Guess Number</td>
+    <td></td>
+    <td>Html, Css, JavaScript </td>
+   <td>Project aims to create Guess number.</td>
+  </tr>
+  
 
   
 </table>
