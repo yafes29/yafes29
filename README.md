@@ -96,7 +96,7 @@
 
   <tr>
     <td align=center >6.</td>
-    <td>Checkout-Page</td>
+    <td>Digital-Clock</td>
     <td>https://yafes29.github.io/Digital-Clock/</td>
     <td>Html, Css, JavaScript </td>
    <td>Project aims to create Checkout-Page.</td>
@@ -118,13 +118,7 @@
    <td>Project aims to create To Do List.</td>
   </tr>
   
-   <tr>
-    <td align=center >9.</td>
-    <td>Digital Saat</td>
-    <td>https://yafes29.github.io/To-Do-List/</td>
-    <td>Html, Bootstrap, JavaScript </td>
-   <td>Project aims to create Digital Saat.</td>
-  </tr>
+  
 
   
 </table>
