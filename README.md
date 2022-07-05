@@ -118,6 +118,14 @@
    <td>Project aims to create To Do List.</td>
   </tr>
   
+   <tr>
+    <td align=center >9.</td>
+    <td>Language Card</td>
+    <td>https://language-card2.netlify.app</td>
+    <td>Css, JavaScript , React </td>
+   <td>Project aims to React</td>
+  </tr>
+  
   
 
   
