@@ -126,9 +126,16 @@
    <td>Project aims to React</td>
   </tr>
     <tr>
-    <td align=center >9.</td>
+    <td align=center >10.</td>
     <td>Recipe App</td>
     <td>https://recipe-app-xi-seven.vercel.app/</td>
+    <td>Css, JavaScript , React </td>
+   <td>Project aims to React</td>
+  </tr>
+     <tr>
+    <td align=center >11.</td>
+    <td>Recipe App</td>
+    <td></td>
     <td>Css, JavaScript , React </td>
    <td>Project aims to React</td>
   </tr>
