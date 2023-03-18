@@ -134,7 +134,7 @@
   </tr>
      <tr>
     <td align=center >11.</td>
-    <td>Recipe App</td>
+    <td>Portfolio</td>
     <td></td>
     <td>Css, JavaScript , React </td>
    <td>Project aims to React</td>
