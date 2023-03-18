@@ -135,8 +135,8 @@
      <tr>
     <td align=center >11.</td>
     <td>Portfolio</td>
-    <td></td>
-    <td>Css, JavaScript , React </td>
+    <td>https://yafes29.github.io/Web-Site/</td>
+    <td>Html, Css, Sass</td>
    <td>Project aims to React</td>
   </tr>
   
