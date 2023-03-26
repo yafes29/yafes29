@@ -132,6 +132,13 @@
     <td>Css, JavaScript , React </td>
    <td>Project aims to React</td>
   </tr>
+     <tr>
+    <td align=center >11.</td>
+    <td>Sign-up Page</td>
+    <td>(https://yafes29.github.io/Sign-up-Page/)</td>
+    <td>HTML, CSS</td>
+   <td>Project aims to HTML, CSS</td>
+  </tr>
 
   
   
